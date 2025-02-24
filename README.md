@@ -2,7 +2,7 @@
 
 ## 프로젝트 개요
 
-Spring cloud를 이용하여 MSA 애플리케이션을 개발하며, Spring Cloud의 사용법과 구성을 학습
+* Spring cloud를 이용하여 MSA 애플리케이션을 개발하며, Spring Cloud의 사용법과 구성을 학습
 
 ## 주요 기능 
 
