@@ -1,16 +1,19 @@
 # MSA Toy Project
 
-## 프로젝트 개요
-
 * Spring cloud를 이용하여 MSA 애플리케이션을 개발하며, Spring Cloud의 사용법과 구성을 학습
 
-## 주요 기능 
 
-* [JWT를 이용한 로그인, 회원가입 구현](https://minutemaid.tistory.com/187)
-* [JUnit5, Mockito Framework를 이용하여 테스트](https://minutemaid.tistory.com/189)
-* [Open Feign을 이용한 인터페이스 형식의 HTTP 통신 구현 ]()
-* [Spring cloud Config를 통한 환경별 구성정보 분리](https://minutemaid.tistory.com/195)
-* [SAGA Pattern와 Kafka를 이용한 이벤트 기반 아키텍처](https://minutemaid.tistory.com/198)
+## 프로젝트 설명 
+
+* [프로젝트 개요 및 생성](https://github.com/yaezzin/spring-msa-market/issues/1)
+* [엔티티 설계](https://github.com/yaezzin/spring-msa-market/issues/2)
+* [JWT를 이용한 로그인, 회원가입 구현](https://github.com/yaezzin/spring-msa-market/issues/3)
+* [JUnit5, Mockito Framework를 이용하여 회원 API 테스트](https://github.com/yaezzin/spring-msa-market/issues/4)
+* [Open Feign을 이용한 인터페이스 형식의 HTTP 통신 구현](https://github.com/yaezzin/spring-msa-market/issues/5)
+* [WireMock을 이용한 API 테스트](https://github.com/yaezzin/spring-msa-market/issues/6)
+* [Spring cloud Config를 통한 환경별 구성정보 분리](https://github.com/yaezzin/spring-msa-market/issues/7)
+* [구성 정보 암호화](https://github.com/yaezzin/spring-msa-market/issues/8)
+* [SAGA Pattern와 Kafka를 이용한 이벤트 기반 아키텍처](https://github.com/yaezzin/spring-msa-market/issues/9)
   
 ## Architecture
 
